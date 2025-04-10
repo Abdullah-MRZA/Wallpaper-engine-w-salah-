@@ -15,7 +15,7 @@ Also, it currently only works on mac os, but porting should be **veery easy**`*`
 This is completely customisable. These are example images I use on my own system:
 
 
-![Early in the morning](Images/Big_Sur_Beach_2-3.jpg)
+![Early in the morning](Images/Big\ Sur\ Beach\ 2-3.jpg)
 
 ![Not as early](Images/Big_Sur_Beach_2-4.jpg)
 
