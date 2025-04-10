@@ -216,9 +216,5 @@ def main():
         sys.exit(1)
 
 
-import time
-
 if __name__ == "__main__":
-    for i in range(10):
-        main()
-        time.sleep(1)
+    main()
